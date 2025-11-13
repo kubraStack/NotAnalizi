@@ -1,4 +1,5 @@
-📊 İnteraktif Çoklu Ders Not Analiz Uygulaması
+📊 İnteraktif Çoklu Ders Not Analiz Uygulaması :
+
 Bu proje, Python'ın NumPy ve Pandas kütüphanelerinin gücünü, Streamlit kullanılarak oluşturulmuş interaktif bir web arayüzü ile birleştirir. Uygulama, kullanıcının yüklediği Excel veya CSV dosyalarındaki not verilerini anlık olarak analiz eder, ders bazlı istatistikler sunar ve uygulanan bonus puanlarla (Çan Eğrisi) birlikte yeni bir veri seti indirme imkanı sağlar.
 
 ✨ Temel Özellikler
